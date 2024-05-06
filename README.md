@@ -17,19 +17,16 @@ El repositorio cuenta con las siguientes secciones:
 
 En esta sección se encuentra materiale relacionado con clases de diversos cursos sobre series de tiempo.
 
----
 
 ## Proyectos
 
 Aquí se encuentran pequeños proyectos y ejercicios para practicar las habilidades en series de tiempo.
 
----
 
 ## Apuntes de Libros
 
 Esta sección contiene resúmenes y apuntes de libros relacionados con series de tiempo.
 
----
 
 ## Datos
 
